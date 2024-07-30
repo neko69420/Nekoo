@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neko on Nekoo</title>
+    <link>http://localhost:1313/authors/neko/</link>
+    <description>Recent content in Neko on Nekoo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2024 02:18:28 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/neko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manga Like Berserk: Must-Read Titles for Fans</title>
+      <link>http://localhost:1313/mangas-like-berserk/</link>
+      <pubDate>Tue, 30 Jul 2024 02:18:28 -0400</pubDate>
+      <guid>http://localhost:1313/mangas-like-berserk/</guid>
+      <description>Berserk is known for its deep storytelling, complex characters, and mature themes. If you&amp;rsquo;re looking for manga with similar vibes, here are some must-read titles that explore dark, thought-provoking narratives.&#xA;1. 20th Century Boys by Naoki Urasawa 20th Century Boys blends childhood memories with a high-stakes thriller. Kenji Endo and his childhood friends face off against a dangerous cult, unraveling a conspiracy that threatens the world.&#xA;Why You’ll Love It: The manga features a complex narrative and mature themes, echoing Berserk&amp;rsquo;s depth and tension.</description>
+    </item>
+  </channel>
+</rss>
